@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JuqeryEasyUi"
+  id="myeclipse.1512645000869"
+  context-root="/eu"
+  j2ee-spec="5.0"
+  archive="JuqeryEasyUi.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
